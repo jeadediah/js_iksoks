@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px #000;
+    margin: 100px auto;
+}
+
+.xo{
+   height: 100px;
+    width: 100px;
+    float: left;
+  box-sizing: border-box;
+    box-shadow: 0 0 5px #000;
+    background: rosybrown;
+    font-size: 80px;
+    color: red;
+    text-align: center;
+    
+    
+}
+
